@@ -95,8 +95,17 @@ Federal Transit Administration Office of Civil Rights
 
 <p>Download Arcata and Mad River Transit System's <strong><a href="Title%20VI%20Complaint%20Form%20-%20AMRTS.pdf">Title VI Complaint Form</a></strong> (PDF).</p>
 
+<h3>Americans with Disabilities Grievance Form</h3>
+<p>In accordance with Title II of the Americans with Disability Act (ADA) of 1990, it is the intention of Arcata and Mad River Transit System to provide access to all services associated with its operation and to all persons with disabilities. Please use this form to file a grievance if you believe Arcata and Mad River Transit System has not provided satisfactory accommodation for a disability.</p>
+<p>Submit grievance to:<br>
+ADA Coordinator<br>
+Arcata and Mad River Transit System<br> 
+736 F Street<br>
+Arcata, CA 95521</p>
 
-</div>
+<p>Download Arcata and Mad River Transit System's <strong><a href="Grievance Passenger Form AMRTS.pdf">Grievance Form</a></strong> (PDF).</p>
+
+ </div>
 
 </div>
 <br clear="all" />
